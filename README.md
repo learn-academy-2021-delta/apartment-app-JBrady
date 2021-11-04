@@ -1,1 +1,0 @@
-# apartment-app-JBrady
