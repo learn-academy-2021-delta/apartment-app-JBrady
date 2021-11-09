@@ -13,3 +13,14 @@
  *= require_tree .
  *= require_self
  */
+@import 'bootstrap';
+
+
+.hamburger {
+    width: 20px;
+    height: 2px;
+    background-color: #333333;
+    margin: 4px 0;
+    -webkit-transition: 0.4s;
+    transition: 0.4s;
+}
